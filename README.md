@@ -1,2 +1,0 @@
-# vaccination-management-system
-We have created a Vaccine Management System using DBMS techniques. Our main objective is to build a database which stores and process all possible data that is required to make anapp for vaccine management. We have precisely and carefully selected datatables of databases so that we can build an efficient database that can readily serve the purpose of the vaccine management system.
